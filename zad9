@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="pl">
+<head>
+    <meta charset="UTF-8">
+    <title>Zasada zachowania pędu</title>
+</head>
+<body>
+
+    <h1>Zasada zachowania pędu</h1>
+
+    <p>
+        <dfn>Zasada zachowania pędu</dfn> mówi, że jeżeli na układ ciał nie działają
+        zewnętrzne siły wypadkowe, to całkowity pęd tego układu pozostaje stały.
+    </p>
+
+    <video width="300" height="200" controls>
+        <source src="Plik-L9.mp4" type="video/mp4">
+    </video>
+
+</body>
+</html>
